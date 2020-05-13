@@ -1,0 +1,25 @@
+html {
+    direction: rtl;
+  }
+  
+  body {
+    font-family: tahoma;
+    font-size: .8em;
+    line-height: 1.6;
+  }
+  
+  .container {
+    width: 500px;
+    margin: 50px auto 0;
+    border: 2px solid #ccc;
+    padding: 1em;
+  }
+  
+  img {
+    float: right;
+    margin: 0 0 1em 1em;
+  }
+  
+  ul {
+    clear: right;
+  }
